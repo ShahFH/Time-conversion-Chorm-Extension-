@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Time Difference Converter",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "time.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
