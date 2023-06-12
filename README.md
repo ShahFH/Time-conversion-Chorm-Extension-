@@ -23,6 +23,6 @@ Here are some examples of valid input formats:
 - 6:30 AM
 - 10:45 PM
 
-Please note that the conversion logic assumes a fixed time difference of 8 hours between Eastern Standard Time (EST) and Afghanistan Time (AFT). You may need to modify the code to handle different time zone differences accurately.
+Please note that the conversion logic assumes a fixed time difference of 8 hours between Eastern Standard Time (EST) and Afghanistan Time (AFT). You may need to modify the code to handle different time zone differences accurately.😊
 
 not completed yet✍️
